@@ -1,8 +1,8 @@
 const nameGirl = 'Tạ Trang My';
 const giftUrl = 'http://facebook.com/hoansn00';
-const eventName = 'Chúc Mừng 8/3';
-const titleCard = 'Tặng Chanh';
-const contentCard = 'Chúc em có một ngày 8/3 tràn ngập niềm vui và những nụ cười.';
+const eventName = 'Cập Nhật Ảnh Đại Diện ';
+const titleCard = 'Avatar';
+const contentCard = 'Sinh ra vốn dĩ hiền lành\nDòng đời xô đẩy hoá thành hiền khô 🙈';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
