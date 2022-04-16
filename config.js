@@ -1,7 +1,7 @@
 const nameGirl = 'Tạ Trang My';
 const giftUrl = 'http://facebook.com/hoansn00';
-const eventName = 'Cập Nhật Ảnh Đại Diện ';
-const titleCard = 'Avatar';
+const eventName = '“The flower that blooms in adversity is the rarest and most beautiful of all." 💕';
+const titleCard = 'Chanh';
 const contentCard = 'Sinh ra vốn dĩ hiền lành\nDòng đời xô đẩy hoá thành hiền khô 🙈';
 
 
