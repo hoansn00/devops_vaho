@@ -1,4 +1,4 @@
-const nameGirl = 'Tạ Trang My';
+const nameGirl = '';
 const giftUrl = 'http://facebook.com/hoansn00';
 const eventName = 'The flower that blooms in adversity is the rarest and most beautiful of all. 💕';
 const titleCard = 'Chanh';
