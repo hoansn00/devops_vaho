@@ -3,7 +3,7 @@ const giftUrl = 'http://facebook.com/hoansn00';
 const eventName = 'The flower that blooms in adversity is the rarest and most beautiful of all. 💕';
 const titleCard = 'Chanh';
 const contentCard = 'Sinh ra vốn dĩ hiền lành\nDòng đời xô đẩy hoá thành hiền khô 🙈';
-
+const img = 'TTM.png';
 
 const giftImage = 'TaTrangMy.png';
 const base64 = '';
